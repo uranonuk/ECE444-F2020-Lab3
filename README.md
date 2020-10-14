@@ -11,3 +11,6 @@ lab3.py is the main application.
 routes are in app/routes.py
 templates are in app/templates
 whole project is in ECE444-F2020-Lab3
+
+# Screenshots
+Screenshot of my terminal outputs, browser, and docker is under ECE444-F2020-Lab3.
