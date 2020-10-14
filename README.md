@@ -14,3 +14,6 @@ whole project is in ECE444-F2020-Lab3
 
 # Screenshots
 Screenshot of my terminal outputs, browser, and docker is under ECE444-F2020-Lab3.
+
+# Answer to 3)
+Docker consists of many running processes, which are called containers. A container shares the kernel of the host machine that the container is running on, whereas a VM runs on a separate kernel with virtual access to resorces of the host machine. This is why Docker offers a lightweight alternative to VM memory-wise. 
